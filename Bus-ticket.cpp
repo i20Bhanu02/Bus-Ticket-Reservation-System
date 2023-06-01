@@ -128,7 +128,6 @@ void mod_bus(){
 }
 
 
-
 void book_seat(){
     system("cls");
     fstream f("busdata.dat",ios::binary|ios::in|ios::out);
